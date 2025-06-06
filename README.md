@@ -8,8 +8,13 @@ Com ilustrações, analogias divertidas, linguagem simples e até um podcast, o 
 
 ## 📚 Acesse o E-book Completo
 
-📘 [Clique aqui para ler o e-book em PDF]([https://gamma.app/docs/l833uxzqpr7zdid?following_id=uuu2vs8fmoohoyg&follow_on_start=true])  
-🎧 Ou escute o [NattyCast no Spotify ou Anchor](https://link-do-podcast.com) - EM PRODUÇÃO
+📘 [Clique aqui para ler o e-book em PDF](https://gamma.app/docs/l833uxzqpr7zdid?following_id=uuu2vs8fmoohoyg&follow_on_start=true)  
+🎧 Ou escute o **NattyCast**
+  - Episódios:
+    - [Ep. 01 - Random Forest: Árvores que votam com o coração](https://notebooklm.google.com/notebook/6e0a2abf-c542-44fe-89c2-cac4a06ba477)
+    - [Ep. 02 – XGBoost: A escola onde cada aluno ajuda o próximo a não errar](https://notebooklm.google.com/notebook/a571d7ce-5f02-44fd-893f-d6e140a3603b)
+    - [Ep. 03 – Decision Tree: Segue pela direita se for sim!](https://notebooklm.google.com/notebook/1c9f7d63-765f-4ff3-9bdf-c6d7b986a8a3)
+    - Ep. 04 - Linear Regression: A linha que só quer entender o que está acontecendo! - EM DESENVOLVIMENTO
 
 ## 🤖 Tecnologias Utilizadas
 
