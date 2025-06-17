@@ -18,16 +18,16 @@ Com ilustrações, analogias divertidas, linguagem simples e até um podcast, o 
     - [Ep. 05 – Logistic Regression: A curva que só quer dizer ‘sim’ ou ‘não’](https://notebooklm.google.com/notebook/4bd5b0c7-1cda-453a-aaa0-bdd2ffaf1103?pli=1)
     - [Ep. 06 – KNN: Quem tá mais perto, me influencia!](https://notebooklm.google.com/notebook/cefbb9c4-3c64-4966-b49a-64440008296a)
     - [Ep. 07 – Naive Bayes: O detetive que junta pistas… separadamente!](https://notebooklm.google.com/notebook/8161e832-2fe7-4e72-a0f4-a35bbe5f57e4)
-    - Ep. 08 – SVM: A régua que divide tudo com justiça - EM DESENVOLVIMENTO
-    - Ep. 09 – ANN: Quando todo mundo pensa junto, dá bom! - EM DESENVOLVIMENTO
-    - Ep. 10 – CNN: A IA que enxerga o mundo em pedacinhos - EM DESENVOLVIMENTO
-    - Ep. 11 – RNN: Pra saber o fim, você tem que lembrar do começo - EM DESENVOLVIMENTO
-    - Ep. 12 – Transformers: Quando prestar atenção é o superpoder - EM DESENVOLVIMENTO
-    - Ep. 13 – K-Means: Quando a bagunça encontra os grupos certos - EM DESENVOLVIMENTO
-    - Ep. 14 – PCA: A IA que escolhe só o que cabe na mochila - EM DESENVOLVIMENTO
-    - Ep. 15 – Reinforcement Learning: A IA que aprende jogando - EM DESENVOLVIMENTO
-    - Ep. 16 – GANs: A IA que treina enganando (de propósito) - EM DESENVOLVIMENTO
-    - Ep. 17 FINAL – LLMs: A IA que conversa sobre tudo (até o que você não perguntou) - EM DESENVOLVIMENTO
+    - [Ep. 08 – SVM: A régua que divide tudo com justiça](https://notebooklm.google.com/notebook/500ca8d5-85a1-4de2-b40b-7d0d54a9878c)
+    - [Ep. 09 – ANN: Quando todo mundo pensa junto, dá bom!](https://notebooklm.google.com/notebook/b7852343-4d63-4d7a-b71e-8793af6d59f9) - EM DESENVOLVIMENTO
+    - [Ep. 10 – CNN: A IA que enxerga o mundo em pedacinhos](https://notebooklm.google.com/notebook/4e37599e-e229-40c9-9daa-87f7f9d15686?pli=1)
+    - [Ep. 11 – RNN: Pra saber o fim, você tem que lembrar do começo](https://notebooklm.google.com/notebook/2cbdc97b-5b43-4ab6-8480-cd55a30d9686?pli=1)
+    - [Ep. 12 – Transformers: Quando prestar atenção é o superpoder](https://notebooklm.google.com/notebook/88e4a27e-3e96-4f8a-94a6-64e4839cfcf0?pli=1)
+    - [Ep. 13 – K-Means: Quando a bagunça encontra os grupos certos](https://notebooklm.google.com/notebook/7fa87d01-bcb0-4dc6-9137-dd7f67fdb92b?pli=1)
+    - [Ep. 14 – PCA: A IA que escolhe só o que cabe na mochila](https://notebooklm.google.com/notebook/79e76bb5-75c1-449c-b5ca-3e1fadf89648?pli=1) 
+    - [Ep. 15 – Reinforcement Learning: A IA que aprende jogando](https://notebooklm.google.com/notebook/0e4fa9e2-56fa-4b07-a304-6f3dbb6c6082?pli=1)
+    - [Ep. 16 – GANs: A IA que treina enganando (de propósito)](https://notebooklm.google.com/notebook/7cf5fc71-0a47-400c-9c14-50f73f27e19b?pli=1)
+    - [Ep. 17 FINAL – LLMs: A IA que conversa sobre tudo (até o que você não perguntou)](https://notebooklm.google.com/notebook/e1b5dbdd-c6b4-46c8-9622-11f49e7dda0b?pli=1)
 
 
 
